@@ -25,7 +25,7 @@ cookieStore.get('name')
     } else {
     textarea.textContent = ''
 
-}
+    }
 
 
 
